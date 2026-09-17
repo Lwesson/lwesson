@@ -1,4 +1,4 @@
-## Hi there 👋
+01001000 01100101 01101100 01101100 01101111
 
 <!--
 **Lwesson/lwesson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
